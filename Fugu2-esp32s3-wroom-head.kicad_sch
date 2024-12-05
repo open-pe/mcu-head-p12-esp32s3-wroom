@@ -5985,7 +5985,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4110"
+		(property "Footprint" "open-pe:USB_C_Receptacle_GCT_USB4110"
 			(at 203.2 45.72 0)
 			(effects
 				(font
@@ -7704,7 +7704,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_B3U-1000P"
+		(property "Footprint" "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK"
 			(at 233.68 74.93 0)
 			(effects
 				(font
@@ -7741,6 +7741,15 @@
 			)
 		)
 		(property "MPN" "XUNPU TS-1088-AR02016"
+			(at 233.68 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint_alt" "Button_Switch_SMD:SW_SPST_B3U-1000P"
 			(at 233.68 80.01 0)
 			(effects
 				(font
