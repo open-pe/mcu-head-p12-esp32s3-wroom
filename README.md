@@ -2,6 +2,11 @@
 <img src="pcb-3d-top.webp" width="300"/>
 <img src="pcb-3d-bot.webp" width="300"/>
 
+* ESP-PROG header
+* USB pin header
+* USB-C socket
+* BOOT button (GPIO0) to enter download mode manually
+* 3.3V LDO regulator 
 
 
 
