@@ -10,7 +10,7 @@ The footprint of the landing connector on the mainboard fits inside the WROOM-Fo
 on the mainboard (only wiring due to the extra pads can be a bit more complicated).
 During assembly you can either populate the WROOM module directly on the mainboard or use this break-out board.
 
-| <img alt="img.png" src="img.png" width="300"/>                                                   |
+| <img alt="footprint" src="footprint.webp" width="300"/>                                          |
 |--------------------------------------------------------------------------------------------------|
 | blue: WROOM footprint pads <br/>red: 2.54mm SMD pin header pads to receive this break-out board. |
 
